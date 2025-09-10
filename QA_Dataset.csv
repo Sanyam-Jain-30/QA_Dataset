@@ -1,0 +1,21 @@
+qa_dataset
+question,answer
+In which year did the Beryl disaster occur?,2024
+Where did the Beryl disaster occur?,"Caribbean,Venezuela,Yucatán Peninsula, United States"
+How many people died in the Beryl disaster?,70 (45 in the US)
+"In which year did the Beryl disaster occur, and how many people died?","2024, 70 (45 in the US)"
+In which year did the Nicole disaster occur?,2022
+Where did the Nicole disaster occur?,"Dominican Republic,Puerto Rico,The Bahamas,Southeastern United States"
+How many people died in the Nicole disaster?,11
+"In which year did the Nicole disaster occur, and how many people died?","2022, 11"
+"How many people died in the Nicole disaster in Dominican Republic,Puerto Rico,The Bahamas,Southeastern United States?",11
+"In which year did the Nicole disaster happen in Dominican Republic,Puerto Rico,The Bahamas,Southeastern United States?",2022
+"How many people died in Dominican Republic,Puerto Rico,The Bahamas,Southeastern United States during the Nicole disaster?",11
+"What was the damage cost in Dominican Republic,Puerto Rico,The Bahamas,Southeastern United States due to the Nicole disaster?",≥ $1 billion
+What was the damage caused by the Delta disaster?,$3.086 billion
+What was the Hurricane event that occurred in 2020?,Delta
+"In which year did the Delta disaster occur, and what was its damage cost?","2020, $3.086 billion"
+What was the death toll and the damage cost of the Delta disaster?,"6, $3.086 billion"
+"In which year did the Delta disaster occur, and how many people died?","2020, 6"
+"How many people died in the Delta disaster in Jamaica,Nicaragua,Cayman Islands,Yucatán Peninsula,Gulf Coast of the United States,Southeastern United States,Northeastern United States?",6
+"In which year did the Delta disaster happen in Jamaica,Nicaragua,Cayman Islands,Yucatán Peninsula,Gulf Coast of the United States,Southeastern United States,Northeastern United States?",2020
