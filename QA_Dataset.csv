@@ -1,61 +1,27 @@
 QA_Dataset
-qa_dataset,
-question,answer
-In which year did the Beryl disaster occur?,2024
-Where did the Beryl disaster occur?,"Caribbean,Venezuela,Yucatán Peninsula, United States"
-How many people died in the Beryl disaster?,70 (45 in the US)
-"In which year did the Beryl disaster occur, and how many people died?","2024, 70 (45 in the US)"
-In which year did the Nicole disaster occur?,2022
-Where did the Nicole disaster occur?,"Dominican Republic,Puerto Rico,The Bahamas,Southeastern United States"
-How many people died in the Nicole disaster?,11
-"In which year did the Nicole disaster occur, and how many people died?","2022, 11"
-"How many people died in the Nicole disaster in Dominican Republic,Puerto Rico,The Bahamas,Southeastern United States?",11
-"In which year did the Nicole disaster happen in Dominican Republic,Puerto Rico,The Bahamas,Southeastern United States?",2022
-"How many people died in Dominican Republic,Puerto Rico,The Bahamas,Southeastern United States during the Nicole disaster?",11
-"What was the damage cost in Dominican Republic,Puerto Rico,The Bahamas,Southeastern United States due to the Nicole disaster?",≥ $1 billion
-What was the damage caused by the Delta disaster?,$3.086 billion
-What was the Hurricane event that occurred in 2020?,Delta
-"In which year did the Delta disaster occur, and what was its damage cost?","2020, $3.086 billion"
-What was the death toll and the damage cost of the Delta disaster?,"6, $3.086 billion"
-"In which year did the Delta disaster occur, and how many people died?","2020, 6"
-"How many people died in the Delta disaster in Jamaica,Nicaragua,Cayman Islands,Yucatán Peninsula,Gulf Coast of the United States,Southeastern United States,Northeastern United States?",6
-"In which year did the Delta disaster happen in Jamaica,Nicaragua,Cayman Islands,Yucatán Peninsula,Gulf Coast of the United States,Southeastern United States,Northeastern United States?",2020
-In which year did the Arson disaster occur from the below options: A. 1942.0 B. 1639 C. 1906 D. 1900  and what was its damage cost?,"A, Atlantic Canada"
-"In which year did the Arson disaster occur, and how many people died?","1942, 99"
-In which year did the Arson disaster occur from the below options: A. 1611 B. 1363 C. 1688 D. 1942.0  and how many people died?,"D, 99"
-How many people died in Arson disaster from the below options: A. 87 B. 75 C. 106 D. 99.0  and in which year did the disaster occur?,"D, 1942"
-In which year did the Arson disaster occur from the below options: A. 1611 B. 1363 C. 1688 D. 1942.0  and How many people died in Arson disaster from the below options: A. 87 B. 75 C. 106 D. 99.0,"D, D"
-What was the death toll and the damage cost of the Arson disaster?,"99, Atlantic Canada"
-How many people died in Arson disaster from the below options: A. 78 B. 99.0 C. 59 D. 122  and what was the damage cost?,"B, Atlantic Canada"
-"In which year did the Outbreak disaster occur, and what was its damage cost?","2018, Prairies"
-"At what date did the Outbreak disaster occur in the format of YYYY-MM-DD, and what was its damage cost?","2018-07-09, Prairies"
-"In which year did the Outbreak started, and what was its damage cost?","2018, Prairies"
-"At what date did the Outbreak started in the format of YYYY-MM-DD, and what was its damage cost?","2018-07-09, Prairies"
-"In which year did the Outbreak ended, and what was its damage cost?","2025, Prairies"
-"At what date did the Outbreak ended in the format of YYYY-MM-DD, and what was its damage cost?","2025-05-10, Prairies"
-"How many days did the Outbreak lasted for, and what was its damage cost?","2497, Prairies"
-"How many months did the Outbreak lasted for, and what was its damage cost?","83, Prairies"
-In which year did the Outbreak disaster occur from the below options: A. 2877 B. 2018.0 C. 2285 D. 1527  and what was its damage cost?,"B, Prairies"
-In which year did the Dust Bowl disaster happen in Great Plains?,1931
-In which year did the Dust Bowl started in Great Plains?,1931
-In which year did the Dust Bowl ended in Great Plains?,1939
-In which year did the Dust Bowl disaster occur from the below options: A. 1352 B. 1134 C. 1931.0 D. 2877  and in which location?,"C, Great Plains"
-In which year did the Dust Bowl ended from the below options: A. 2123 B. 2642 C. 2484 D. 1939.0  and in which location?,"D, Great Plains"
-In which year did the Dust Bowl disaster occur from the below options: A. 1352 B. 1134 C. 1931.0 D. 2877  and In which year did the Dust Bowl ended from the below options: A. 2123 B. 2642 C. 2484 D. 1939.0,"C, D"
-आगजनी की आपदा किस वर्ष में हुई थी?,1942
-"1942 में सेंट जॉन्स, न्यूफ़ाउंडलैंड में हुई कोलंबस हॉस्टल फायर इवेंट के शूरवीरों क्या था?",आगजनी
-"आगजनी की आपदा किस वर्ष में हुई, और इसकी क्षति लागत क्या थी?","1942, अटलांटिक कनाडा"
-नीचे दिए गए विकल्पों से आगजनी की आपदा किस वर्ष में हुई थी: ए। 1564 बी। 2504 सी। 2653 डी। 1942.0 और इसकी क्षति लागत क्या थी?,"डी, अटलांटिक कनाडा"
-"आगजनी की आपदा किस वर्ष में हुई, और कितने लोग मारे गए?","1942, 99"
-नीचे दिए गए विकल्पों से आगजनी की आपदा किस वर्ष में हुई थी: ए। 1530 बी। 1965 सी। 1942.0 डी। 2016 और कितने लोगों की मृत्यु हुई?,"सी, 99"
-नीचे दिए गए विकल्पों से आगजनी की आपदा में कितने लोग मारे गए: ए। 97 बी। 120 सी। 131 डी। 99.0 और आपदा किस वर्ष में हुई?,"डी, 1942"
-नीचे दिए गए विकल्पों से आगजनी की आपदा किस वर्ष में हुई थी: ए। 1530 बी। 1965 सी। 1942.0 डी। 2016 और नीचे दिए गए विकल्पों से आगजनी की आपदा में कितने लोगों की मृत्यु हो गई: ए। 97 बी। 120 सी। 131 डी। 99.0 99.0,"सी, डी"
-"सेंट जॉन्स, न्यूफ़ाउंडलैंड में आगजनी की आपदा किस वर्ष में हुई थी?",1942
-¿En qué año ocurrió el desastre incendiado por el incendio y cuál fue su costo de daño?,"1972, Canadá central"
-¿En qué año ocurrió el desastre incendiado por el incendio de las opciones a continuación: A. 1972.0 B. 2357 C. 1889 D. 1139 y cuál fue su costo de daño?,"A, Central Canadá"
-¿En qué año se produjo el desastre incendiario y cuántas personas murieron?,"1972, 37"
-¿En qué año se produjo el desastre incendio de las opciones a continuación: A. 1972.0 B. 1419 C. 1080 D. 1482 y cuántas personas murieron?,"A, 37"
-¿Cuántas personas murieron en el desastre incendiario de las opciones a continuación: A. 52 B. 37.0 C. 30 D. 34 y en qué año ocurrió el desastre?,"B, 1972"
-En cuyo año se produjo el desastre incendiado por el incendio de las opciones a continuación: A. 1972.0 B. 1419 C. 1080 D. 1482 y cuántas personas murieron en el desastre de un incendio provocado por las siguientes opciones: A. 52 B. 37.0 C. 30 D. 34,"A, B"
-"¿En qué año ocurrió el desastre incendiado en Montreal, Quebec?",1972
-¿En qué año se produjo el desastre incendiado por el incendio de las opciones a continuación: A. 1972.0 B. 2310 C. 2697 D. 2571 y en qué ubicación?,"A, Montreal, Quebec"
+Question,Answer
+"What was the Blue Bird Café fire event that occurred in 1972 in Montreal, Quebec?",arson
+In what year did the Worldwideinfluenza disaster take place?,1918
+"What was the Hurricane event that occurred in 2020 in Lesser Antilles,Greater Antilles,The Bahamas,Gulf Coast of the United States,Midwestern United States,Eastern United States?",laura
+What was the Blizzard event that occurred in 1940 in North and Central Midwest?,armistice day
+In what year did the Armistice Day disaster take place?,1940
+दुनिया भर में इन्फ्लूएंजा की आपदा किस वर्ष में हुई थी?,दुनिया भर में इन्फ्लूएंजा की आपदा किस वर्ष में हुई थी?
+2017 में फ्लोरिडा और प्यूर्टो रिको में तूफान की घटना क्या थी?,मारिया
+"2016 में फ्लोरिडा, जॉर्जिया, कैरोलिनास में तूफान की घटना क्या थी?",मैथ्यू
+एलीसन आपदा किस वर्ष में हुई?,2001
+"1985 में न्यूयॉर्क, न्यू जर्सी, उत्तरी कैरोलिना, न्यू इंग्लैंड में तूफान की घटना क्या थी?",ग्लोरिया
+"¿Cuál fue el evento Blue Bird Café Fire que ocurrió en 1972 en Montreal, Quebec?",incendio provocado
+"¿Cuál fue el evento de huracanes que ocurrió en 2020 en Colombia, Jamaica, América Central, Islas Caimán, Cuba, Bahamas, Sureste de los Estados Unidos?",eta
+"¿Cuál fue el evento de huracán que ocurrió en 2005 en Florida, Louisiana, Mississippi, Alabama?",katrina
+"¿Cuál fue el evento de huracán que ocurrió en 1985 en Nueva York, Nueva Jersey, Carolina del Norte, Nueva Inglaterra?",gloria
+What was the death toll and the damage cost of the Laura disaster?,"77, $19.1 billion"
+How many people died in Laura disaster from the below options: A. 77.0 B. 75 C. 70 D. 86  and what was the damage cost?,"a, $19.1 billion"
+What is the damage cost of Laura disaster from the below options: A. 24 B. 19.1 C. 21 D. 25  and how many people died?,"b, 77"
+How many people died in the Goodwin disaster in Arizona?,0
+"How many people died in the Rita disaster in Louisiana,Texas?",120
+What was the death toll and the damage cost of the Alicia disaster?,"21, $3 billion"
+What is the damage cost of Camille disaster from the below options: A. 2 B. 1.42 C. 3 D. 0  and how many people died?,"b, 256"
+在加利福尼亚的营地灾难中有多少人死亡？,85
+在西非的佛罗伦萨灾难中，有多少人死亡，美国东海岸（尤其是卡罗来纳州），加拿大大西洋，加拿大的佛罗伦萨灾难？,54
+在亚利桑那州的古德温灾难中有多少人死亡？,0
+¿Cuál fue el número de muertos del desastre de Irma?,134
